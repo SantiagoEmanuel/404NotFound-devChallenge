@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://santiagoemanuel.github.io/">
+    <a href="https://santiagoemanuel.github.io/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://santiagoemanuel.github.io/">
+    <a href="https://santiagoemanuel.github.io/">
       Solution
     </a>
     <span> | </span>
@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@SantiagoEmanuel](https://{github.com/SantiagoEmanuel})
-- Twitter [@SantiagoEmanuel1145](https://{twitter.com/SantiagoEma1145})
+- GitHub [@SantiagoEmanuel](https://github.com/SantiagoEmanuel)
+- Twitter [@SantiagoEmanuel1145](https://twitter.com/SantiagoEma1145)
