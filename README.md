@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -69,6 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@SantiagoEmanuel](https://{github.com/SantiagoEmanuel})
+- Twitter [@SantiagoEmanuel1145](https://{twitter.com/SantiagoEma1145})
